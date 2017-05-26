@@ -98,7 +98,7 @@ October 18th 2012: Version 1.2 released.<br>
 September 15th 2012: Initial release.<br>
 
 # Need help? #
-If you need professional help with an NFC project, get in touch. Have a look at [my apps](https://play.google.com/store/search?q=pub:Thomas%20Rorvik%20Skjolberg).
+If you need professional help with an NFC project, get in touch. Have a look at [my apps](https://play.google.com/store/search?q=pub:Thomas%20Rorvik%20Skjolberg ).
 
 # Donate #
 Chip in to help me buy some more NFC tags and readers and divert time from paid work.
